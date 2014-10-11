@@ -4,13 +4,21 @@
 #ifndef CABRIO_GAME_HPP_
 #define CABRIO_GAME_HPP_
 
+#include <string>
+
 #include "Platform.hpp"
 
 class Game {
   public:
-    Platform* platform();
     Game();
+    Game(std::string name);
+
+    Platform& platform();
+    std::string name();
+    void name(std::string n);
+
   private:
+    std::string str_name;
 };
 
 #endif
