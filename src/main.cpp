@@ -5,12 +5,20 @@
 using namespace std;
 
 #include "GameList.hpp"
+#include "Quad.hpp"
+#include "Logger.hpp"
 
 int main(int argc, char* argv[]) {
   GameList& list = GameList::get_instance();
+  Logger& logger = Logger::get_instance();
+
+  logger.level(LOG_DEBUG);
+  logger.log(LOG_INFO, "Starting up");
 
   Game g1("Hello");
   Game g2("Goodbye");
+  Quad q1;
+  q1.texture("./share/cabrio_logo.png");
 
   list.add(g1);
   list.add(g2);

@@ -1,3 +1,4 @@
 cabrio
 src/*.o
 .project
+.DS_Store
