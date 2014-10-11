@@ -13,7 +13,7 @@ INSTALL=/usr/bin/install -c
 .cpp.o: %.cpp
 	$(CC) $(CPPFLAGS) $(INCLUDES) -o $@ -c $<
 
-cabrio: src/main.o src/Config.o
+cabrio: src/main.o src/Config.o src/Game.o src/GameList.o src/Platform.o
 	$(LD) -o $@ $^ $(LDFLAGS)
 
 clean:
