@@ -8,7 +8,7 @@ class Config {
             return instance;
         }
     private:
-        Config();
+        Config() {};
         Config(Config const&);
         void operator=(Config const&);
 };
