@@ -1,0 +1,1211 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="devcard" index="" image="">
+    <description>7800 Dev. Card</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="diagtest" index="" image="">
+    <description>7800 Pro System Diagnostic Test (v1.0)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="aceofaceu" index="" image="">
+    <description>Ace of Aces (NTSC)</description>
+    <cloneof>aceoface</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / NOVA Game Design. Inc.</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="aceoface" index="" image="">
+    <description>Ace of Aces (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / NOVA Game Design. Inc.</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="alienbrgu" index="" image="">
+    <description>Alien Brigade (NTSC)</description>
+    <cloneof>alienbrg</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="alienbrg" index="" image="">
+    <description>Alien Brigade (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="asteroid" index="" image="">
+    <description>Asteroids (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="astdelux" index="" image="">
+    <description>Asteroids Deluxe (NTSC)</description>
+    <cloneof>asteroid</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2007</year>
+    <genre></genre>
+  </game>
+  <game name="astdeluxp" index="" image="">
+    <description>Asteroids Deluxe (PAL)</description>
+    <cloneof>asteroid</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2007</year>
+    <genre></genre>
+  </game>
+  <game name="ballblazu" index="" image="">
+    <description>Ballblazer (NTSC)</description>
+    <cloneof>ballblaz</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Lucasfilm</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="ballblaz" index="" image="">
+    <description>Ballblazer (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Lucasfilm</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="barnblstu" index="" image="">
+    <description>Barnyard Blaster (NTSC)</description>
+    <cloneof>barnblst</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="barnblst" index="" image="">
+    <description>Barnyard Blaster (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="baseball" index="" image="">
+    <description>Baseball (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="bsktbrwlu" index="" image="">
+    <description>Basketbrawl (NTSC)</description>
+    <cloneof>bsktbrwl</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="bsktbrwl" index="" image="">
+    <description>Basketbrawl (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="beefdrop" index="" image="">
+    <description>Beef Drop (NTSC, Added Pokey Chip)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="centipedu" index="" image="">
+    <description>Centipede (NTSC)</description>
+    <cloneof>centiped</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="centiped" index="" image="">
+    <description>Centipede (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="chopliftu" index="" image="">
+    <description>Choplifter! (NTSC)</description>
+    <cloneof>choplift</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Brøderbund</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="choplift" index="" image="">
+    <description>Choplifter! (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Brøderbund</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="commandou" index="" image="">
+    <description>Commando (NTSC)</description>
+    <cloneof>commando</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Data East</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="commando" index="" image="">
+    <description>Commando (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Data East</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="crackedu" index="" image="">
+    <description>Crack'ed (NTSC)</description>
+    <cloneof>cracked</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Data East</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="cracked" index="" image="">
+    <description>Crack'ed (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Data East</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="crossbowu" index="" image="">
+    <description>Crossbow (NTSC)</description>
+    <cloneof>crossbow</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Exidy</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="crossbow" index="" image="">
+    <description>Crossbow (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Exidy</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="darkchamu" index="" image="">
+    <description>Dark Chambers (NTSC)</description>
+    <cloneof>darkcham</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="darkcham" index="" image="">
+    <description>Dark Chambers (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="dsrtflcnu" index="" image="">
+    <description>Desert Falcon (NTSC)</description>
+    <cloneof>dsrtflcn</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="dsrtflcna" index="" image="">
+    <description>Desert Falcon (NTSC, Alternate)</description>
+    <cloneof>dsrtflcn</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="dsrtflcn" index="" image="">
+    <description>Desert Falcon (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="digdugu" index="" image="">
+    <description>Dig Dug (NTSC)</description>
+    <cloneof>digdug</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Namco</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="digdug" index="" image="">
+    <description>Dig Dug (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Namco</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="dkongu" index="" image="">
+    <description>Donkey Kong (NTSC)</description>
+    <cloneof>dkong</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Nintendo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="dkong" index="" image="">
+    <description>Donkey Kong (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Nintendo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="dkongxmn" index="" image="">
+    <description>Donkey Kong (homebrew, XM enhanced) (Demo)</description>
+    <cloneof>dkongxm</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2012</year>
+    <genre></genre>
+  </game>
+  <game name="dkongxmnu" index="" image="">
+    <description>Donkey Kong (homebrew, XM enhanced) (Demo) (NTSC)</description>
+    <cloneof>dkongxm</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2012</year>
+    <genre></genre>
+  </game>
+  <game name="dkongxm" index="" image="">
+    <description>Donkey Kong (homebrew, XM enhanced, HSC support) (Demo)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2012</year>
+    <genre></genre>
+  </game>
+  <game name="dkongxmu" index="" image="">
+    <description>Donkey Kong (homebrew, XM enhanced, HSC support) (Demo) (NTSC)</description>
+    <cloneof>dkongxm</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2012</year>
+    <genre></genre>
+  </game>
+  <game name="dkongjru" index="" image="">
+    <description>Donkey Kong Jr. (NTSC)</description>
+    <cloneof>dkongjr</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Nintendo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="dkongjr" index="" image="">
+    <description>Donkey Kong Jr. (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Nintendo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="ddragonu" index="" image="">
+    <description>Double Dragon (NTSC)</description>
+    <cloneof>ddragon</cloneof>
+    <crc></crc>
+    <manufacturer>Activision / Technos</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="ddragon" index="" image="">
+    <description>Double Dragon (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision / Technos</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="f18u" index="" image="">
+    <description>F-18 Hornet (NTSC)</description>
+    <cloneof>f18</cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="f18" index="" image="">
+    <description>F-18 Hornet (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="fatalrunu" index="" image="">
+    <description>Fatal Run (NTSC)</description>
+    <cloneof>fatalrun</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="fatalrun" index="" image="">
+    <description>Fatal Run (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="fightnu" index="" image="">
+    <description>Fight Night (NTSC)</description>
+    <cloneof>fightn</cloneof>
+    <crc></crc>
+    <manufacturer>Accolde</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="fightn" index="" image="">
+    <description>Fight Night (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Accolde</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="foodfu" index="" image="">
+    <description>Food Fight (NTSC)</description>
+    <cloneof>foodf</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="foodf" index="" image="">
+    <description>Food Fight (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="gatop8" index="" image="">
+    <description>GATO (NTSC, Prototype, 19870424)</description>
+    <cloneof>gatop1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gatop7" index="" image="">
+    <description>GATO (NTSC, Prototype, 19870523)</description>
+    <cloneof>gatop1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gatop6" index="" image="">
+    <description>GATO (NTSC, Prototype, 19870611)</description>
+    <cloneof>gatop1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gatop5" index="" image="">
+    <description>GATO (NTSC, Prototype, 19870623)</description>
+    <cloneof>gatop1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gatop4" index="" image="">
+    <description>GATO (NTSC, Prototype, 19870727)</description>
+    <cloneof>gatop1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gatop3" index="" image="">
+    <description>GATO (NTSC, Prototype, 198711xx)</description>
+    <cloneof>gatop1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gatop2" index="" image="">
+    <description>GATO (NTSC, Prototype, 198712xx)</description>
+    <cloneof>gatop1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gatop1" index="" image="">
+    <description>GATO (NTSC, Prototype, 198801xx)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Spectrum Holobyte</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="galagau" index="" image="">
+    <description>Galaga (NTSC)</description>
+    <cloneof>galaga</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="galaga" index="" image="">
+    <description>Galaga (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="hangly" index="" image="">
+    <description>Hangly-Man (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="hattricku" index="" image="">
+    <description>Hat Trick (NTSC)</description>
+    <cloneof>hattrick</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Bally Sente</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="hattrick" index="" image="">
+    <description>Hat Trick (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Bally Sente</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="hiscore" index="" image="">
+    <description>High Score Cartridge</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="ikariu" index="" image="">
+    <description>Ikari Warriors (NTSC)</description>
+    <cloneof>ikari</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="ikari" index="" image="">
+    <description>Ikari Warriors (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="impmissu" index="" image="">
+    <description>Impossible Mission (NTSC)</description>
+    <cloneof>impmiss</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Epyx</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="impmiss" index="" image="">
+    <description>Impossible Mission (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Epyx</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="jinksu" index="" image="">
+    <description>Jinks (NTSC)</description>
+    <cloneof>jinks</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Softgold</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="jinks" index="" image="">
+    <description>Jinks (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Softgold</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="joustu" index="" image="">
+    <description>Joust (NTSC)</description>
+    <cloneof>joust</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Williams</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="joust" index="" image="">
+    <description>Joust (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Williams</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="jrpacman" index="" image="">
+    <description>Jr. Pac-Man (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2009</year>
+    <genre></genre>
+  </game>
+  <game name="karatekau" index="" image="">
+    <description>Karateka (NTSC)</description>
+    <cloneof>karateka</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Brøderbund</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="karateka" index="" image="">
+    <description>Karateka (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Brøderbund</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="klax" index="" image="">
+    <description>Klax (NTSC, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="kungfumu" index="" image="">
+    <description>Kung-Fu Master (NTSC)</description>
+    <cloneof>kungfum</cloneof>
+    <crc></crc>
+    <manufacturer>Absolute / Data East / Irem</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="kungfum" index="" image="">
+    <description>Kung-Fu Master (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Absolute / Data East / Irem</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="mariou" index="" image="">
+    <description>Mario Bros. (NTSC)</description>
+    <cloneof>mario</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Nintendo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="mario" index="" image="">
+    <description>Mario Bros. (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Nintendo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="matmaniau" index="" image="">
+    <description>Mat Mania Challenge (NTSC)</description>
+    <cloneof>matmania</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Technos</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="matmania" index="" image="">
+    <description>Mat Mania Challenge (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Technos</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="mean18u" index="" image="">
+    <description>Mean 18 (NTSC)</description>
+    <cloneof>mean18</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Accolade</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="mean18" index="" image="">
+    <description>Mean 18 (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Accolade</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="meltdownu" index="" image="">
+    <description>Meltdown (NTSC)</description>
+    <cloneof>meltdown</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="meltdown" index="" image="">
+    <description>Meltdown (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="midnightu" index="" image="">
+    <description>Midnight Mutants (NTSC)</description>
+    <cloneof>midnight</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="midnight" index="" image="">
+    <description>Midnight Mutants (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="mia" index="" image="">
+    <description>Missing In Action (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>TNT Games</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="mpsychou" index="" image="">
+    <description>Motor Psycho (NTSC)</description>
+    <cloneof>mpsycho</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="mpsycho" index="" image="">
+    <description>Motor Psycho (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="mspacatk" index="" image="">
+    <description>Ms. Pac-Attack (NTSC)</description>
+    <cloneof>mspacman</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="mspacmanu" index="" image="">
+    <description>Ms. Pac-Man (NTSC)</description>
+    <cloneof>mspacman</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="mspacman" index="" image="">
+    <description>Ms. Pac-Man (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="ninjaglfu" index="" image="">
+    <description>Ninja Golf (NTSC)</description>
+    <cloneof>ninjaglf</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="ninjaglf" index="" image="">
+    <description>Ninja Golf (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="1on1u" index="" image="">
+    <description>One On One (NTSC)</description>
+    <cloneof>1on1</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Electronic Arts</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="1on1" index="" image="">
+    <description>One On One (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Electronic Arts</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="pacman" index="" image="">
+    <description>Pac-Man (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="paccollu" index="" image="">
+    <description>Pac-Man Collection! (NTSC)</description>
+    <cloneof>pacman</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="paccoll" index="" image="">
+    <description>Pac-Man Collection! (PAL)</description>
+    <cloneof>pacman</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="pacplus" index="" image="">
+    <description>Pac-Man Plus (NTSC)</description>
+    <cloneof>pacman</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="pacpolux" index="" image="">
+    <description>Pac-Pollux (NTSC)</description>
+    <cloneof>pacman</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="baseballu" index="" image="">
+    <description>Pete Rose Baseball (NTSC)</description>
+    <cloneof>baseball</cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="pitfight" index="" image="">
+    <description>Pit Fighter (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="planetsmu" index="" image="">
+    <description>Planet Smashers (NTSC)</description>
+    <cloneof>planetsm</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="planetsm" index="" image="">
+    <description>Planet Smashers (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="plutos" index="" image="">
+    <description>Plutos (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tynesoft</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="polepos2u" index="" image="">
+    <description>Pole Position II (NTSC)</description>
+    <cloneof>polepos2</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Namco</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="polepos2" index="" image="">
+    <description>Pole Position II (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Namco</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="rampage" index="" image="">
+    <description>Rampage (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="rampart" index="" image="">
+    <description>Rampart (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Imagitec Design</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="rsbaseb" index="" image="">
+    <description>RealSports Baseball (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="fractal" index="" image="">
+    <description>Rescue on Fractalus (NTSC, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="robotron" index="" image="">
+    <description>Robotron: 2084 (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Williams</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="santasim" index="" image="">
+    <description>Santa Simon (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="scrapdogu" index="" image="">
+    <description>Scrapyard Dog (NTSC)</description>
+    <cloneof>scrapdog</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="scrapdog" index="" image="">
+    <description>Scrapyard Dog (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="sentinelu" index="" image="">
+    <description>Sentinel (NTSC, Prototype)</description>
+    <cloneof>sentinel</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="sentinel" index="" image="">
+    <description>Sentinel (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="sirius" index="" image="">
+    <description>Sirius (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tynesoft</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="spacduelu" index="" image="">
+    <description>Space Duel (NTSC)</description>
+    <cloneof>spacduel</cloneof>
+    <crc></crc>
+    <manufacturer>Atari Interactive</manufacturer>
+    <year>2007</year>
+    <genre></genre>
+  </game>
+  <game name="spacduel" index="" image="">
+    <description>Space Duel (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2007</year>
+    <genre></genre>
+  </game>
+  <game name="spaceinvu" index="" image="">
+    <description>Space Invader (NTSC)</description>
+    <cloneof>spaceinv</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2008</year>
+    <genre></genre>
+  </game>
+  <game name="spaceinv" index="" image="">
+    <description>Space Invader (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2008</year>
+    <genre></genre>
+  </game>
+  <game name="starwarsu" index="" image="">
+    <description>Star Wars 7800 (NTSC, Hack)</description>
+    <cloneof>starwars</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2007</year>
+    <genre></genre>
+  </game>
+  <game name="starwars" index="" image="">
+    <description>Star Wars 7800 (PAL, Hack)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2007</year>
+    <genre></genre>
+  </game>
+  <game name="sumgames" index="" image="">
+    <description>Summer Games (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Epyx</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="suphueyu" index="" image="">
+    <description>Super Huey (NTSC)</description>
+    <cloneof>suphuey</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="suphuey" index="" image="">
+    <description>Super Huey (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="supskateu" index="" image="">
+    <description>Super Skateboardin' (NTSC)</description>
+    <cloneof>supskate</cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc.</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="supskate" index="" image="">
+    <description>Super Skateboardin' (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc.</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="tank" index="" image="">
+    <description>Tank Command (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Froggo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="prowresu" index="" image="">
+    <description>Title Match Pro Wrestling (NTSC)</description>
+    <cloneof>prowres</cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc.</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="prowres" index="" image="">
+    <description>Title Match Pro Wrestling (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc.</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="tomcatu" index="" image="">
+    <description>Tomcat - The F-14 Fighter Simulator (NTSC)</description>
+    <cloneof>tomcat</cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc.</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="tomcat" index="" image="">
+    <description>Tomcat - The F-14 Fighter Simulator (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Absolute Entertainment, Inc.</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="tdown" index="" image="">
+    <description>Touchdown Football</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="towertopu" index="" image="">
+    <description>Tower Toppler (NTSC)</description>
+    <cloneof>towertop</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / U.S. Gold</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="towertop" index="" image="">
+    <description>Tower Toppler (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / U.S. Gold</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="ultrapac" index="" image="">
+    <description>Ultra Pac-Man (NTSC)</description>
+    <cloneof>pacman</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2006</year>
+    <genre></genre>
+  </game>
+  <game name="wasp" index="" image="">
+    <description>Wasp (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2009</year>
+    <genre></genre>
+  </game>
+  <game name="waterski" index="" image="">
+    <description>Water Ski (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Froggo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="wingames" index="" image="">
+    <description>Winter Games (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Epyx</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="xenophobu" index="" image="">
+    <description>Xenophobe (NTSC)</description>
+    <cloneof>xenophob</cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Bally Midway Mfg. Co.</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="xenophob" index="" image="">
+    <description>Xenophobe (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Bally Midway Mfg. Co.</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="xeviousu" index="" image="">
+    <description>Xevious (NTSC)</description>
+    <cloneof>xevious</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="xevious" index="" image="">
+    <description>Xevious (PAL)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="bonq" index="" image="">
+    <description>b*nQ (NTSC)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;homebrew&gt;</manufacturer>
+    <year>2007</year>
+    <genre></genre>
+  </game>
+</menu>

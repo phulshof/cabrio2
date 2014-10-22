@@ -1,0 +1,4563 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="20em1" index="" image="">
+    <description>20 em 1 (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre></genre>
+  </game>
+  <game name="4pak" index="" image="">
+    <description>4 PAK All Action (Aus)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>HES</manufacturer>
+    <year>1995</year>
+    <genre></genre>
+  </game>
+  <game name="94swc" index="" image="">
+    <description>94 Super World Cup Soccer (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Daou Infosys</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="aceoface" index="" image="">
+    <description>Ace of Aces (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="actionfg1" index="" image="">
+    <description>Action Fighter (Euro, Jpn, v1)</description>
+    <cloneof>actionfg</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="actionfg" index="" image="">
+    <description>Action Fighter (Euro, USA, Bra, v2)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="herolanc" index="" image="">
+    <description>Advanced Dungeons &amp; Dragons - Heroes of the Lance (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="aerialas" index="" image="">
+    <description>Aerial Assault (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="aerialasu" index="" image="">
+    <description>Aerial Assault (USA)</description>
+    <cloneof>aerialas</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="aburner" index="" image="">
+    <description>After Burner (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="agidooly" index="" image="">
+    <description>Agigongnyong Dooly (Kor)</description>
+    <cloneof>dinodool</cloneof>
+    <crc></crc>
+    <manufacturer>Daou Infosys</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="airresc" index="" image="">
+    <description>Air Rescue (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="aleste" index="" image="">
+    <description>Aleste (Jpn)</description>
+    <cloneof>pstrike</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="alexhitw" index="" image="">
+    <description>Alex Kidd - High-Tech World (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="alexlost" index="" image="">
+    <description>Alex Kidd - The Lost Stars (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="alexbmx" index="" image="">
+    <description>Alex Kidd BMX Trial (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="alexkiddb" index="" image="">
+    <description>Alex Kidd in Miracle World (Bra, v1, Pirate)</description>
+    <cloneof>alexkidd</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="alexkidd1" index="" image="">
+    <description>Alex Kidd in Miracle World (Euro, USA, v0)</description>
+    <cloneof>alexkidd</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="alexkidd" index="" image="">
+    <description>Alex Kidd in Miracle World (Euro, USA, v1)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="alexshin" index="" image="">
+    <description>Alex Kidd in Shinobi World (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="alexkiddj" index="" image="">
+    <description>Alex Kidd no Miracle World (Jpn)</description>
+    <cloneof>alexkidd</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="alf" index="" image="">
+    <description>Alf (USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="alibaba" index="" image="">
+    <description>Alibaba and 40 Thieves (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>HiCom</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="astorm" index="" image="">
+    <description>Alien Storm (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="aliensyn" index="" image="">
+    <description>Alien Syndrome (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="aliensynj" index="" image="">
+    <description>Alien Syndrome (Jpn)</description>
+    <cloneof>aliensyn</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="aliensynp" index="" image="">
+    <description>Alien Syndrome (Prototype)</description>
+    <cloneof>aliensyn</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="alien3" index="" image="">
+    <description>Alien³ (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Arena</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="altbeast" index="" image="">
+    <description>Altered Beast (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="ameribb" index="" image="">
+    <description>American Baseball (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="ameripf" index="" image="">
+    <description>American Pro Football (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="agassi" index="" image="">
+    <description>Andre Agassi Tennis (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>TecMagik</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="anmitsu" index="" image="">
+    <description>Anmitsu Hime (Jpn)</description>
+    <cloneof>alexhitw</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="arcadesh" index="" image="">
+    <description>Arcade Smash Hits (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="argosnj" index="" image="">
+    <description>Argos no Juujiken (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tecmo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="argosnj1" index="" image="">
+    <description>Argos no Juujiken (Jpn, Pirate?)</description>
+    <cloneof>argosnj</cloneof>
+    <crc></crc>
+    <manufacturer>Tecmo</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="tvcolos" index="" image="">
+    <description>As Aventuras da TV Colosso (Bra)</description>
+    <cloneof>asterix</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="ashura" index="" image="">
+    <description>Ashura (Jpn)</description>
+    <cloneof>secret</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="assaultc1" index="" image="">
+    <description>Assault City (Euro)</description>
+    <cloneof>assaultc</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="assaultc" index="" image="">
+    <description>Assault City (Euro, Bra, Light Phaser version)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="asterix1" index="" image="">
+    <description>Asterix (Euro, Bra, v0)</description>
+    <cloneof>asterix</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="asterix" index="" image="">
+    <description>Asterix (Euro, v1)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="astermis" index="" image="">
+    <description>Asterix and the Secret Mission (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="astrofl" index="" image="">
+    <description>Astro Flash (Jpn, MyCard)</description>
+    <cloneof>transbot</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="astrofl1" index="" image="">
+    <description>Astro Flash (Jpn, Pirate)</description>
+    <cloneof>transbot</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="astropit" index="" image="">
+    <description>Astro Warrior &amp; Pit Pot (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="astrow" index="" image="">
+    <description>Astro Warrior (Jpn, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="astergre" index="" image="">
+    <description>Astérix and the Great Rescue (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="smgp2" index="" image="">
+    <description>Ayrton Senna's Super Monaco GP II (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="aztecadv" index="" image="">
+    <description>Aztec Adventure - The Golden Road to Paradise (Euro, USA) ~ Nazca '88 - The Golden Road to Paradise (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="backtof2" index="" image="">
+    <description>Back to the Future Part II (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Image Works</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="backtof3" index="" image="">
+    <description>Back to the Future Part III (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Image Works</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="bakubaku" index="" image="">
+    <description>Baku Baku Animal (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="bankp" index="" image="">
+    <description>Bank Panic (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="bankpc" index="" image="">
+    <description>Bank Panic (Euro, Sega Card)</description>
+    <cloneof>bankp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="basketn" index="" image="">
+    <description>Basket Ball Nightmare (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="batmanrn" index="" image="">
+    <description>Batman Returns (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="battleor" index="" image="">
+    <description>Battle Out Run (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="bmaniacs" index="" image="">
+    <description>Battlemaniacs (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="blackblt" index="" image="">
+    <description>Black Belt (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="bladeag1" index="" image="">
+    <description>Blade Eagle (USA, Prototype)</description>
+    <cloneof>bladeag</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="bladeag" index="" image="">
+    <description>Blade Eagle (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="blockhol" index="" image="">
+    <description>Block Hole (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="bombraid" index="" image="">
+    <description>Bomber Raid (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="bnzabros" index="" image="">
+    <description>Bonanza Bros. (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="dracula" index="" image="">
+    <description>Bram Stoker's Dracula (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sony Imagesoft</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="bublbobl" index="" image="">
+    <description>Bubble Bobble (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="bublbokc" index="" image="">
+    <description>Bubble Bobble (Kor, Clover)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Clover</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="bublboky" index="" image="">
+    <description>Bubble Bobble (Kor, YM Soft)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>YM Soft</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="buggyrun" index="" image="">
+    <description>Buggy Run (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="cso" index="" image="">
+    <description>C_So! (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Joy Soft</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="calgames" index="" image="">
+    <description>California Games (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="calgame2b" index="" image="">
+    <description>California Games II (Bra, Kor)</description>
+    <cloneof>calgame2</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="calgame2" index="" image="">
+    <description>California Games II (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="captsilv" index="" image="">
+    <description>Captain Silver (Euro, Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="captsilvu" index="" image="">
+    <description>Captain Silver (USA)</description>
+    <cloneof>captsilv</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="casino" index="" image="">
+    <description>Casino Games (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="castelo" index="" image="">
+    <description>Castelo Rá-Tim-Bum (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1997</year>
+    <genre></genre>
+  </game>
+  <game name="castlill" index="" image="">
+    <description>Castle of Illusion Starring Mickey Mouse (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="castlillu" index="" image="">
+    <description>Castle of Illusion Starring Mickey Mouse (USA)</description>
+    <cloneof>castlill</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="castlills" index="" image="">
+    <description>Castle of Illusion Starring Mickey Mouse (USA, Display Unit Sample)</description>
+    <cloneof>castlill</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="champeur" index="" image="">
+    <description>Champions of Europe (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>TecMagik</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="champhck" index="" image="">
+    <description>Championship Hockey (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="chapolim" index="" image="">
+    <description>Chapolim x Dracula - Um Duelo Assustador (Bra)</description>
+    <cloneof>ghosth</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="cheese" index="" image="">
+    <description>Cheese Cat-astrophe Starring Speedy Gonzales (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1995</year>
+    <genre></genre>
+  </game>
+  <game name="choplift" index="" image="">
+    <description>Choplifter (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="chopliftj" index="" image="">
+    <description>Choplifter (Jpn, Prototype)</description>
+    <cloneof>choplift</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="chopliftp" index="" image="">
+    <description>Choplifter (USA, Prototype)</description>
+    <cloneof>choplift</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="borgman" index="" image="">
+    <description>Chouon Senshi Borgman (Jpn)</description>
+    <cloneof>cyborgh</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="borgmanp" index="" image="">
+    <description>Chouon Senshi Borgman (Jpn, Prototype)</description>
+    <cloneof>cyborgh</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="chuckrck" index="" image="">
+    <description>Chuck Rock (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="chukrck2b" index="" image="">
+    <description>Chuck Rock II - Son of Chuck (Bra)</description>
+    <cloneof>chukrck2</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="chukrck2" index="" image="">
+    <description>Chuck Rock II - Son of Chuck (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Core Design</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="cloudmst" index="" image="">
+    <description>Cloud Master (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="colors" index="" image="">
+    <description>Color &amp; Switch Test (v1.3)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="columns" index="" image="">
+    <description>Columns (Euro, USA, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="columnsp" index="" image="">
+    <description>Columns (Prototype)</description>
+    <cloneof>columns</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="comicbak" index="" image="">
+    <description>Comic Bakery (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="comical" index="" image="">
+    <description>Comical Machine Gun Joe (Jpn, MyCard)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="comicalk" index="" image="">
+    <description>Comical Machine Gun Joe (Kor)</description>
+    <cloneof>comical</cloneof>
+    <crc></crc>
+    <manufacturer>Samsung</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="comicaltw" index="" image="">
+    <description>Comical Machine Gun Joe (Tw)</description>
+    <cloneof>comical</cloneof>
+    <crc></crc>
+    <manufacturer>Aaronix</manufacturer>
+    <year>1986?</year>
+    <genre></genre>
+  </game>
+  <game name="coolspot" index="" image="">
+    <description>Cool Spot (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="cosmic" index="" image="">
+    <description>Cosmic Spacehead (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Codemasters</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="cyborgh" index="" image="">
+    <description>Cyborg Hunter (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="cyborgz" index="" image="">
+    <description>Cyborg Z (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="daffy" index="" image="">
+    <description>Daffy Duck in Hollywood (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="dallye" index="" image="">
+    <description>Dallyeora Pigu-Wang (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Game Line</manufacturer>
+    <year>1995</year>
+    <genre></genre>
+  </game>
+  <game name="danan" index="" image="">
+    <description>Danan: The Jungle Fighter (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="deadang" index="" image="">
+    <description>Dead Angle (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="deepduck" index="" image="">
+    <description>Deep Duck Trouble Starring Donald Duck (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="desert" index="" image="">
+    <description>Desert Speedtrap Starring Road Runner and Wile E. Coyote (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="dstrike" index="" image="">
+    <description>Desert Strike (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="dicktr" index="" image="">
+    <description>Dick Tracy (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="dinobash" index="" image="">
+    <description>Dinobasher Starring Bignose the Caveman (Euro, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Codemasters</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="aladdin" index="" image="">
+    <description>Disney's Aladdin (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="ariel" index="" image="">
+    <description>Disney's Ariel The Little Mermaid (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1997</year>
+    <genre></genre>
+  </game>
+  <game name="bonkers" index="" image="">
+    <description>Disney's Bonkers Wax Up! (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="lionking" index="" image="">
+    <description>Disney's The Lion King (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="dokidoki" index="" image="">
+    <description>Doki Doki Penguin Land - Uchuu Daibouken (Jpn)</description>
+    <cloneof>pengland</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="dokidokip" index="" image="">
+    <description>Doki Doki Penguin Land - Uchuu Daibouken (Jpn, Prototype)</description>
+    <cloneof>pengland</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="ddragonk" index="" image="">
+    <description>Double Dragon (Kor)</description>
+    <cloneof>ddragon</cloneof>
+    <crc></crc>
+    <manufacturer>Samsung</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="ddragon" index="" image="">
+    <description>Double Dragon (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="doublhwk" index="" image="">
+    <description>Double Hawk (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="doublhwkp" index="" image="">
+    <description>Double Hawk (Euro, Prototype)</description>
+    <cloneof>doublhwk</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="doubltgt" index="" image="">
+    <description>Double Target - Cynthia no Nemuri (Jpn)</description>
+    <cloneof>quartet</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="drhello" index="" image="">
+    <description>Dr. HELLO (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="drrobotn" index="" image="">
+    <description>Dr. Robotnik's Mean Bean Machine (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="dragon" index="" image="">
+    <description>Dragon - The Bruce Lee Story (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="dcrystal" index="" image="">
+    <description>Dragon Crystal (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="dynduke" index="" image="">
+    <description>Dynamite Duke (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="ddux" index="" image="">
+    <description>Dynamite Dux (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="dhead" index="" image="">
+    <description>Dynamite Headdy (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="eswatc1" index="" image="">
+    <description>E-SWAT - City Under Siege (Euro, USA, Bra, Hard Version)</description>
+    <cloneof>eswatc</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="eswatc" index="" image="">
+    <description>E-SWAT - City Under Siege (Euro, USA, Easy Version)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="exainnov" index="" image="">
+    <description>E.I. - Exa Innova (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>HiCom</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="eagles5" index="" image="">
+    <description>Eagles 5 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="ejim" index="" image="">
+    <description>Earthworm Jim (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="ecco2" index="" image="">
+    <description>Ecco - The Tides of Time (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="ecco" index="" image="">
+    <description>Ecco the Dolphin (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="enduro" index="" image="">
+    <description>Enduro Racer (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="enduroj" index="" image="">
+    <description>Enduro Racer (Jpn)</description>
+    <cloneof>enduro</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="f1spirit" index="" image="">
+    <description>F-1 Spirit - The way to Formula-1 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="f16fight" index="" image="">
+    <description>F-16 Fighter (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="f16fightc" index="" image="">
+    <description>F-16 Fighter (Euro, USA, Sega Card)</description>
+    <cloneof>f16fight</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="f16falcjc" index="" image="">
+    <description>F-16 Fighting Falcon (Jpn, MyCard)</description>
+    <cloneof>f16fight</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="f16falctw" index="" image="">
+    <description>F-16 Fighting Falcon (Tw)</description>
+    <cloneof>f16fight</cloneof>
+    <crc></crc>
+    <manufacturer>Aaronix</manufacturer>
+    <year>1985?</year>
+    <genre></genre>
+  </game>
+  <game name="f16falc" index="" image="">
+    <description>F-16 Fighting Falcon (USA)</description>
+    <cloneof>f16fight</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="f16falcc" index="" image="">
+    <description>F-16 Fighting Falcon (USA, Sega Card for Display Unit)</description>
+    <cloneof>f16fight</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="f1" index="" image="">
+    <description>F1 (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="fatetris" index="" image="">
+    <description>FA Tetris (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>FA Soft</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="fifa" index="" image="">
+    <description>FIFA International Soccer (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="family" index="" image="">
+    <description>Family Games (Jpn)</description>
+    <cloneof>parlour</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="fantdizz" index="" image="">
+    <description>Fantastic Dizzy (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Codemasters</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="fantzonej" index="" image="">
+    <description>Fantasy Zone (Jpn, v0)</description>
+    <cloneof>fantzone</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="fantzonetw" index="" image="">
+    <description>Fantasy Zone (Tw)</description>
+    <cloneof>fantzone</cloneof>
+    <crc></crc>
+    <manufacturer>Aaronix</manufacturer>
+    <year>1986?</year>
+    <genre></genre>
+  </game>
+  <game name="fantzone1" index="" image="">
+    <description>Fantasy Zone (World, v1, Prototype)</description>
+    <cloneof>fantzone</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="fantzone" index="" image="">
+    <description>Fantasy Zone (World, v2)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="fantzonm" index="" image="">
+    <description>Fantasy Zone - The Maze (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="fantzon2j" index="" image="">
+    <description>Fantasy Zone II - Opa Opa no Namida (Jpn)</description>
+    <cloneof>fantzon2</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="fantzon2" index="" image="">
+    <description>Fantasy Zone II - The Tears of Opa-Opa (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="felipe" index="" image="">
+    <description>Felipe em Acao (Bra)</description>
+    <cloneof>teddyboy</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="finalbb" index="" image="">
+    <description>Final Bubble Bobble (Jpn)</description>
+    <cloneof>bublbobl</cloneof>
+    <crc></crc>
+    <manufacturer>Sega </manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="fireforg" index="" image="">
+    <description>Fire &amp; Forget II (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Titus Arcade</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="fireice" index="" image="">
+    <description>Fire &amp; Ice (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="fpoint" index="" image="">
+    <description>Flashpoint (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>199?</year>
+    <genre></genre>
+  </game>
+  <game name="forgottn" index="" image="">
+    <description>Forgotten Worlds (Euro, Bra, Aus)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="pitpot" index="" image="">
+    <description>Fushigi no Oshiro Pit Pot (Jpn, MyCard)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="pitpot1" index="" image="">
+    <description>Fushigi no Oshiro Pit Pot (Jpn, Pirate?)</description>
+    <cloneof>pitpot</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="ferias" index="" image="">
+    <description>Férias Frustradas do Pica-Pau (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="gloc" index="" image="">
+    <description>G-LOC Air Battle (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="gprider" index="" image="">
+    <description>GP Rider (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="gaegujan" index="" image="">
+    <description>Gaegujangi Ggachi (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="gground" index="" image="">
+    <description>Gain Ground (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="ggroundp" index="" image="">
+    <description>Gain Ground (Euro, Prototype)</description>
+    <cloneof>gground</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="galactpr" index="" image="">
+    <description>Galactic Protector (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="galaxian" index="" image="">
+    <description>Galaxian (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>HiCom</manufacturer>
+    <year>199?</year>
+    <genre></genre>
+  </game>
+  <game name="gforce" index="" image="">
+    <description>Galaxy Force (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="gforceu" index="" image="">
+    <description>Galaxy Force (USA)</description>
+    <cloneof>gforce</cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="gamebox" index="" image="">
+    <description>Game Box Série Esportes Radicais (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="robocop" index="" image="">
+    <description>Gangcheol RoboCop (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sieco</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="gangster" index="" image="">
+    <description>Gangster Town (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gauntlet" index="" image="">
+    <description>Gauntlet (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="georgeko" index="" image="">
+    <description>George Foreman's KO Boxing (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="gerald" index="" image="">
+    <description>Geraldinho (Bra)</description>
+    <cloneof>teddyboy</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="ghosth" index="" image="">
+    <description>Ghost House (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="ghosthc" index="" image="">
+    <description>Ghost House (Euro, USA, Bra, Sega Card)</description>
+    <cloneof>ghosth</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="ghosthj" index="" image="">
+    <description>Ghost House (Jpn, MyCard)</description>
+    <cloneof>ghosth</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="ghosthj1" index="" image="">
+    <description>Ghost House (Jpn, Pirate?)</description>
+    <cloneof>ghosth</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="ghosthk" index="" image="">
+    <description>Ghost House (Kor)</description>
+    <cloneof>ghosth</cloneof>
+    <crc></crc>
+    <manufacturer>Samsung</manufacturer>
+    <year>198?</year>
+    <genre></genre>
+  </game>
+  <game name="ghosthcp" index="" image="">
+    <description>Ghost House (Sega Card, Prototype)</description>
+    <cloneof>ghosth</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="ghostbst" index="" image="">
+    <description>Ghostbusters (Euro, USA, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="ghouls" index="" image="">
+    <description>Ghouls'n Ghosts (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="ghoulsd" index="" image="">
+    <description>Ghouls'n Ghosts (USA, Demo)</description>
+    <cloneof>ghouls</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="globald" index="" image="">
+    <description>Global Defense (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="globaldp" index="" image="">
+    <description>Global Defense (Euro, USA, Prototype)</description>
+    <cloneof>globald</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="dumpmats" index="" image="">
+    <description>Gokuaku Doumei Dump Matsumoto (Jpn)</description>
+    <cloneof>prowres</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="goldnaxe" index="" image="">
+    <description>Golden Axe (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="gaxewarr" index="" image="">
+    <description>Golden Axe Warrior (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="golfaman" index="" image="">
+    <description>Golfamania (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="golfamanp" index="" image="">
+    <description>Golfamania (Prototype)</description>
+    <cloneof>golfaman</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="golvell" index="" image="">
+    <description>Golvellius (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="greatbas" index="" image="">
+    <description>Great Baseball (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="greatbasj" index="" image="">
+    <description>Great Baseball (Jpn, MyCard)</description>
+    <cloneof>greatbas</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="greatbasj1" index="" image="">
+    <description>Great Baseball (Jpn, Pirate?)</description>
+    <cloneof>greatbas</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="greatbsk" index="" image="">
+    <description>Great Basketball (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="greatftb" index="" image="">
+    <description>Great Football (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="greatglf" index="" image="">
+    <description>Great Golf (Euro, USA) ~ Masters Golf (Japan)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="greatglf1" index="" image="">
+    <description>Great Golf (Euro, USA, v1.0)</description>
+    <cloneof>greatglf</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="greatglj" index="" image="">
+    <description>Great Golf (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="greatglk" index="" image="">
+    <description>Great Golf (Kor)</description>
+    <cloneof>greatglj</cloneof>
+    <crc></crc>
+    <manufacturer>Samsung?</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="greatglfp" index="" image="">
+    <description>Great Golf (Prototype)</description>
+    <cloneof>greatglf</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="greatice" index="" image="">
+    <description>Great Ice Hockey (Jpn, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="greatscr" index="" image="">
+    <description>Great Soccer (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="greatscrc" index="" image="">
+    <description>Great Soccer (Euro, Sega Card)</description>
+    <cloneof>greatscr</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="greatscrj" index="" image="">
+    <description>Great Soccer (Jpn, MyCard)</description>
+    <cloneof>greatscr</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="greatscrtw" index="" image="">
+    <description>Great Soccer (Tw)</description>
+    <cloneof>greatscr</cloneof>
+    <crc></crc>
+    <manufacturer>Aaronix</manufacturer>
+    <year>1985?</year>
+    <genre></genre>
+  </game>
+  <game name="greattns" index="" image="">
+    <description>Great Tennis (Jpn, MyCard)</description>
+    <cloneof>stennis</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="greatvol" index="" image="">
+    <description>Great Volleyball (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="greatvolj" index="" image="">
+    <description>Great Volleyball (Jpn)</description>
+    <cloneof>greatvol</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="gunsmoke" index="" image="">
+    <description>Gun.Smoke (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>ProSoft</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="hajafuin" index="" image="">
+    <description>Haja no Fuuin (Jpn)</description>
+    <cloneof>miracle</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="hangonaw" index="" image="">
+    <description>Hang-On &amp; Astro Warrior (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="hangonsh" index="" image="">
+    <description>Hang-On &amp; Safari Hunt (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="hangonshp" index="" image="">
+    <description>Hang-On &amp; Safari Hunt (USA, Prototype)</description>
+    <cloneof>hangonsh</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="hangon" index="" image="">
+    <description>Hang-On (Euro, Bra, Aus)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="hangonc" index="" image="">
+    <description>Hang-On (Euro, Bra, Aus, Sega Card)</description>
+    <cloneof>hangon</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="hangonj" index="" image="">
+    <description>Hang-On (Jpn, MyCard)</description>
+    <cloneof>hangon</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="heavyw" index="" image="">
+    <description>Heavyweight Champ (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="highsc" index="" image="">
+    <description>High School! Kimengumi (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="hokuto" index="" image="">
+    <description>Hokuto no Ken (Jpn)</description>
+    <cloneof>blackblt</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="hokutotw" index="" image="">
+    <description>Hokuto no Ken (Tw)</description>
+    <cloneof>blackblt</cloneof>
+    <crc></crc>
+    <manufacturer>Aaronix</manufacturer>
+    <year>1986?</year>
+    <genre></genre>
+  </game>
+  <game name="homea" index="" image="">
+    <description>Home Alone (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="hook" index="" image="">
+    <description>Hook (Euro, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="hoshiw" index="" image="">
+    <description>Hoshi wo Sagashite... (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="hwaran" index="" image="">
+    <description>Hwarang Ui Geom (Kor)</description>
+    <cloneof>kenseid</cloneof>
+    <crc></crc>
+    <manufacturer>Samsung</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="impmiss" index="" image="">
+    <description>Impossible Mission (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="impmissp" index="" image="">
+    <description>Impossible Mission (Euro, Prototype)</description>
+    <cloneof>impmiss</cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="indycrus" index="" image="">
+    <description>Indiana Jones and the Last Crusade (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="indycrusp" index="" image="">
+    <description>Indiana Jones and the Last Crusade (Euro, Prototype)</description>
+    <cloneof>indycrus</cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="jbdougko" index="" image="">
+    <description>James 'Buster' Douglas Knockout Boxing (USA)</description>
+    <cloneof>heavyw</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="jbdougkop" index="" image="">
+    <description>James 'Buster' Douglas Knockout Boxing (USA, Prototype)</description>
+    <cloneof>heavyw</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="jb007b" index="" image="">
+    <description>James Bond 007 - The Duel (Bra)</description>
+    <cloneof>jb007</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="jb007" index="" image="">
+    <description>James Bond 007 - The Duel (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="robocod" index="" image="">
+    <description>James Pond 2 - Codename RoboCod (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="jangpun3" index="" image="">
+    <description>Jang Pung 3 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sanghun</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="janggun" index="" image="">
+    <description>Janggun ui Adeul (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Daou Infosys</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="joemont" index="" image="">
+    <description>Joe Montana Football (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="jpark" index="" image="">
+    <description>Jurassic Park (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="kenseid" index="" image="">
+    <description>Kenseiden (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="kenseidj" index="" image="">
+    <description>Kenseiden (Jpn)</description>
+    <cloneof>kenseid</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="kingball" index="" image="">
+    <description>King &amp; Balloon (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="kingqst" index="" image="">
+    <description>King's Quest - Quest for the Crown (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="kingqstp" index="" image="">
+    <description>King's Quest - Quest for the Crown (USA, Prototype)</description>
+    <cloneof>kingqst</cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="klax" index="" image="">
+    <description>Klax (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tengen</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="knightm2" index="" image="">
+    <description>Knightmare II - The Maze of Galious (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina?</manufacturer>
+    <year>199?</year>
+    <genre></genre>
+  </game>
+  <game name="krustyfh" index="" image="">
+    <description>Krusty's Fun House (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="kujaku" index="" image="">
+    <description>Kujaku Ou (Jpn)</description>
+    <cloneof>spellcst</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="kungfuk" index="" image="">
+    <description>Kung Fu Kid (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="landill" index="" image="">
+    <description>Land of Illusion Starring Mickey Mouse (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="lghost" index="" image="">
+    <description>Laser Ghost (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="legndill" index="" image="">
+    <description>Legend of Illusion Starring Mickey Mouse (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="lemmings" index="" image="">
+    <description>Lemmings (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="lemmingsp" index="" image="">
+    <description>Lemmings (Euro, Prototype)</description>
+    <cloneof>lemmings</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="lemming2" index="" image="">
+    <description>Lemmings 2 - The Tribes (Euro, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Psygnosis</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="sn_lwep3" index="" image="">
+    <description>Lethal Weapon 3 (Music prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Probe</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="loffire" index="" image="">
+    <description>Line of Fire (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="lordswrdj" index="" image="">
+    <description>Lord of Sword (Jpn)</description>
+    <cloneof>lordswrd</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="lordswrd" index="" image="">
+    <description>Lord of the Sword (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="loretta" index="" image="">
+    <description>Loretta no Shouzou (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="mjsengok" index="" image="">
+    <description>Mahjong Sengoku Jidai (Jpn, HK)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="mjsengokp" index="" image="">
+    <description>Mahjong Sengoku Jidai (Jpn, Prototype)</description>
+    <cloneof>mjsengok</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="makairet" index="" image="">
+    <description>Makai Retsuden (Jpn)</description>
+    <cloneof>kungfuk</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="maougolv" index="" image="">
+    <description>Maou Golvellius (Jpn)</description>
+    <cloneof>golvell</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="maougolvp" index="" image="">
+    <description>Maou Golvellius (Jpn, Prototype)</description>
+    <cloneof>golvell</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="marble" index="" image="">
+    <description>Marble Madness (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="marksman" index="" image="">
+    <description>Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="marksmanu" index="" image="">
+    <description>Marksman Shooting &amp; Trap Shooting (USA)</description>
+    <cloneof>marksman</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="mastdark" index="" image="">
+    <description>Master of Darkness (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="mastcomb" index="" image="">
+    <description>Masters of Combat (Euro, Bra, Aus)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="mazehunt" index="" image="">
+    <description>Maze Hunter 3-D (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="mazewalk" index="" image="">
+    <description>Maze Walker (Jpn)</description>
+    <cloneof>mazehunt</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="megumi" index="" image="">
+    <description>Megumi Rescue (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="mercs" index="" image="">
+    <description>Mercs (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="mwalk" index="" image="">
+    <description>Michael Jackson's Moonwalker (Euro, USA, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="mwalkp" index="" image="">
+    <description>Michael Jackson's Moonwalker (USA, Prototype)</description>
+    <cloneof>mwalk</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="mickmack" index="" image="">
+    <description>Mick &amp; Mack as the Global Gladiators (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="mickeyuc" index="" image="">
+    <description>Mickey's Ultimate Challenge (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1998</year>
+    <genre></genre>
+  </game>
+  <game name="micromac" index="" image="">
+    <description>Micro Machines (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Codemasters</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="miracle" index="" image="">
+    <description>Miracle Warriors - Seal of the Dark Lord (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="miraclep" index="" image="">
+    <description>Miracle Warriors - Seal of the Dark Lord (Prototype)</description>
+    <cloneof>miracle</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="missil3d" index="" image="">
+    <description>Missile Defense 3-D (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="monopoly" index="" image="">
+    <description>Monopoly (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="monopolyu" index="" image="">
+    <description>Monopoly (USA)</description>
+    <cloneof>monopoly</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="monopolyp" index="" image="">
+    <description>Monopoly (USA, Prototype)</description>
+    <cloneof>monopoly</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="montezum" index="" image="">
+    <description>Montezuma's Revenge Featuring Panama Joe (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="montezump" index="" image="">
+    <description>Montezuma's Revenge Featuring Panama Joe (USA, Prototype)</description>
+    <cloneof>montezum</cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="mopirang" index="" image="">
+    <description>Mopiranger (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="mk" index="" image="">
+    <description>Mortal Kombat (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Arena</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="mk3" index="" image="">
+    <description>Mortal Kombat 3 (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="mk2" index="" image="">
+    <description>Mortal Kombat II (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Acclaim Entertainment</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="mspacman" index="" image="">
+    <description>Ms. Pac-Man (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tengen</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="myhero" index="" image="">
+    <description>My Hero (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="myheroc" index="" image="">
+    <description>My Hero (Euro, USA, Bra, Sega Card)</description>
+    <cloneof>myhero</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="monica" index="" image="">
+    <description>Mônica no Castelo do Dragao (Bra)</description>
+    <cloneof>wboymlnd</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="nbajam" index="" image="">
+    <description>NBA Jam (Euro, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Acclaim</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="nekkyu" index="" image="">
+    <description>Nekkyuu Koushien (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="nemesis" index="" image="">
+    <description>Nemesis (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="nemesis2" index="" image="">
+    <description>Nemesis 2 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="newbogl2" index="" image="">
+    <description>New Boggle Boggle 2 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="ngaiden" index="" image="">
+    <description>Ninja Gaiden (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="ngaidenp" index="" image="">
+    <description>Ninja Gaiden (Euro, Prototype)</description>
+    <cloneof>ngaiden</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="olympgld" index="" image="">
+    <description>Olympic Gold (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="olympgldk" index="" image="">
+    <description>Olympic Gold (Kor)</description>
+    <cloneof>olympgld</cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="opaopa" index="" image="">
+    <description>Opa Opa (Jpn)</description>
+    <cloneof>fantzonm</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="opwolf" index="" image="">
+    <description>Operation Wolf (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="outrun" index="" image="">
+    <description>Out Run (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="outrun3d" index="" image="">
+    <description>Out Run 3-D (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="outrneur" index="" image="">
+    <description>Out Run Europa (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="pgatour" index="" image="">
+    <description>PGA Tour Golf (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tengen</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="pacmania" index="" image="">
+    <description>Pac-Mania (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tengen</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="paperboy" index="" image="">
+    <description>Paperboy (Euro, v0)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="paperboyu" index="" image="">
+    <description>Paperboy (USA, Bra, v1)</description>
+    <cloneof>paperboy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="parlour" index="" image="">
+    <description>Parlour Games (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="patriley" index="" image="">
+    <description>Pat Riley Basketball (USA, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="pengadv" index="" image="">
+    <description>Penguin Adventure (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>199?</year>
+    <genre></genre>
+  </game>
+  <game name="pengland" index="" image="">
+    <description>Penguin Land (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="pstarb" index="" image="">
+    <description>Phantasy Star (Bra)</description>
+    <cloneof>pstar</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="pstar1" index="" image="">
+    <description>Phantasy Star (Euro, USA, v2)</description>
+    <cloneof>pstar</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="pstar" index="" image="">
+    <description>Phantasy Star (Euro, USA, v3)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="pstarj" index="" image="">
+    <description>Phantasy Star (Jpn)</description>
+    <cloneof>pstar</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="pstarjmd" index="" image="">
+    <description>Phantasy Star (Jpn, MD / Saturn Collection CD)</description>
+    <cloneof>pstar</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="pstark" index="" image="">
+    <description>Phantasy Star (Kor)</description>
+    <cloneof>pstar</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="pitfightb" index="" image="">
+    <description>PitFighter - The Ultimate Challenge (Bra)</description>
+    <cloneof>pitfight</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="pitfight" index="" image="">
+    <description>PitFighter - The Ultimate Challenge (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="pooyan" index="" image="">
+    <description>Pooyan (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>HiCom</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="populous" index="" image="">
+    <description>Populous (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>TecMagik</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="poseidon" index="" image="">
+    <description>Poseidon Wars 3-D (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="pstrike" index="" image="">
+    <description>Power Strike (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="pstrike2" index="" image="">
+    <description>Power Strike II (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="predatr2b" index="" image="">
+    <description>Predator 2 (Bra)</description>
+    <cloneof>predatr2</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1992?</year>
+    <genre></genre>
+  </game>
+  <game name="predatr2" index="" image="">
+    <description>Predator 2 (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Arena</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="ppersia" index="" image="">
+    <description>Prince of Persia (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="prowres" index="" image="">
+    <description>Pro Wrestling (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="sms3samp" index="" image="">
+    <description>Promocao Especial M. System III Compact (Bra, Sample)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="psychicw" index="" image="">
+    <description>Psychic World (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="psychof" index="" image="">
+    <description>Psycho Fox (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="puttputt" index="" image="">
+    <description>Putt &amp; Putter (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="puttputtp" index="" image="">
+    <description>Putt &amp; Putter (Euro, Prototype)</description>
+    <cloneof>puttputt</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="puznic" index="" image="">
+    <description>Puznic (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="quartet" index="" image="">
+    <description>Quartet (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="shavnyak" index="" image="">
+    <description>Quest for the Shaven Yak Starring Ren Hoëk &amp; Stimpy (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="rtypep" index="" image="">
+    <description>R-Type (Prototype)</description>
+    <cloneof>rtype</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="rtype" index="" image="">
+    <description>R-Type (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="rcgp" index="" image="">
+    <description>R.C. Grand Prix (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="rcgpp" index="" image="">
+    <description>R.C. Grand Prix (Prototype)</description>
+    <cloneof>rcgp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="rbislandb" index="" image="">
+    <description>Rainbow Islands - The Story of Bubble Bobble 2 (Bra)</description>
+    <cloneof>rbisland</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="rbisland" index="" image="">
+    <description>Rainbow Islands - The Story of Bubble Bobble 2 (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="rambo2" index="" image="">
+    <description>Rambo - First Blood Part II (USA)</description>
+    <cloneof>secret</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="rambo3" index="" image="">
+    <description>Rambo III (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="rampage" index="" image="">
+    <description>Rampage (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="rampart" index="" image="">
+    <description>Rampart (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tengen</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="rastan" index="" image="">
+    <description>Rastan (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="regjacks" index="" image="">
+    <description>Reggie Jackson Baseball (USA)</description>
+    <cloneof>ameribb</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="renegade" index="" image="">
+    <description>Renegade (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="rescuems" index="" image="">
+    <description>Rescue Mission (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="roadfght" index="" image="">
+    <description>Road Fighter (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="roadrash" index="" image="">
+    <description>Road Rash (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="robocop3" index="" image="">
+    <description>RoboCop 3 (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="roboterm" index="" image="">
+    <description>RoboCop versus The Terminator (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="rocky" index="" image="">
+    <description>Rocky (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="running" index="" image="">
+    <description>Running Battle (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="saposos" index="" image="">
+    <description>S.O.S Lagoa Poluida (Bra)</description>
+    <cloneof>astrow</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre></genre>
+  </game>
+  <game name="sdi" index="" image="">
+    <description>SDI (Jpn)</description>
+    <cloneof>globald</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="sagaia" index="" image="">
+    <description>Sagaia (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="sangoku3" index="" image="">
+    <description>Sangokushi 3 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Game Line</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="sapomestr" index="" image="">
+    <description>Sapo Xulé - O Mestre do Kung Fu (Bra)</description>
+    <cloneof>kungfuk</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre></genre>
+  </game>
+  <game name="sapoxule" index="" image="">
+    <description>Sapo Xulé vs. Os Invasores do Brejo (Bra)</description>
+    <cloneof>psychof</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1995</year>
+    <genre></genre>
+  </game>
+  <game name="satell7" index="" image="">
+    <description>Satellite 7 (Jpn, MyCard)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="satell7a" index="" image="">
+    <description>Satellite 7 (Jpn, Pirate?)</description>
+    <cloneof>satell7</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="sspirits" index="" image="">
+    <description>Scramble Spirits (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="secret" index="" image="">
+    <description>Secret Command (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="segachss" index="" image="">
+    <description>Sega Chess (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="segawtg" index="" image="">
+    <description>Sega World Tournament Golf (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="seishun" index="" image="">
+    <description>Seishun Scandal (Jpn, MyCard)</description>
+    <cloneof>myhero</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="seishun1" index="" image="">
+    <description>Seishun Scandal (Jpn, Pirate?)</description>
+    <cloneof>myhero</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="sensible" index="" image="">
+    <description>Sensible Soccer (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sony Imagesoft</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="shdancer" index="" image="">
+    <description>Shadow Dancer (Euro, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="beast" index="" image="">
+    <description>Shadow of the Beast (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>TecMagik</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="shanghai" index="" image="">
+    <description>Shanghai (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="shanghaip" index="" image="">
+    <description>Shanghai (Prototype)</description>
+    <cloneof>shanghai</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="shinobi" index="" image="">
+    <description>Shinobi (Euro, USA, Bra, v1)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="shinobij" index="" image="">
+    <description>Shinobi (Jpn, Bra, v0)</description>
+    <cloneof>shinobi</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="shooting" index="" image="">
+    <description>Shooting Gallery (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="skyjag" index="" image="">
+    <description>Sky Jaguar (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Samsung</manufacturer>
+    <year>199?</year>
+    <genre></genre>
+  </game>
+  <game name="slapshotp" index="" image="">
+    <description>Slap Shoot (Prototype)</description>
+    <cloneof>slapshot</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="slapshotb" index="" image="">
+    <description>Slap Shot (Euro, v0)</description>
+    <cloneof>slapshot</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="slapshota" index="" image="">
+    <description>Slap Shot (Euro, v1)</description>
+    <cloneof>slapshot</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="slapshot" index="" image="">
+    <description>Slap Shot (USA, v2)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="smashtv" index="" image="">
+    <description>Smash T.V. (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="solomon" index="" image="">
+    <description>Solomon no Kagi - Oujo Rihita no Namida (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Salio</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="sonicbls" index="" image="">
+    <description>Sonic Blast (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1997</year>
+    <genre></genre>
+  </game>
+  <game name="sonic" index="" image="">
+    <description>Sonic The Hedgehog (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="sonic2" index="" image="">
+    <description>Sonic The Hedgehog 2 (Euro, Bra, Kor, v1)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="sonic2a" index="" image="">
+    <description>Sonic The Hedgehog 2 (Euro, Bra, v0)</description>
+    <cloneof>sonic2</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="sonicc" index="" image="">
+    <description>Sonic The Hedgehog Chaos (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="sspin" index="" image="">
+    <description>Sonic The Hedgehog Spinball (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="sonicedu" index="" image="">
+    <description>Sonic's Edusoft (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="spacegun" index="" image="">
+    <description>Space Gun (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="sharrier" index="" image="">
+    <description>Space Harrier (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="sharrierju" index="" image="">
+    <description>Space Harrier (Jpn, USA)</description>
+    <cloneof>sharrier</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="sharr3d" index="" image="">
+    <description>Space Harrier 3-D (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="sharr3dj" index="" image="">
+    <description>Space Harrier 3D (Jpn)</description>
+    <cloneof>sharr3d</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="sci" index="" image="">
+    <description>Special Criminal Investigation (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="scip" index="" image="">
+    <description>Special Criminal Investigation (Euro, Prototype)</description>
+    <cloneof>sci</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="speedbl" index="" image="">
+    <description>Speedball (Image Works) (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Image Works</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="speedblv" index="" image="">
+    <description>Speedball (Virgin) (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="speedbl2" index="" image="">
+    <description>Speedball 2 (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="spellcst" index="" image="">
+    <description>SpellCaster (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="spidermn" index="" image="">
+    <description>Spider-Man - Return of the Sinister Six (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="spidking" index="" image="">
+    <description>Spider-Man vs. The Kingpin (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="sportsft" index="" image="">
+    <description>Sports Pad Football (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="sportssc" index="" image="">
+    <description>Sports Pad Soccer (Jpn)</description>
+    <cloneof>worldsoc</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="spyvsspyj" index="" image="">
+    <description>Spy vs Spy (Jpn, MyCard)</description>
+    <cloneof>spyvsspy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="spyvsspyk" index="" image="">
+    <description>Spy vs Spy (Kor)</description>
+    <cloneof>spyvsspy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="spyvsspytw" index="" image="">
+    <description>Spy vs Spy (Tw)</description>
+    <cloneof>spyvsspy</cloneof>
+    <crc></crc>
+    <manufacturer>Aaronix</manufacturer>
+    <year>1986?</year>
+    <genre></genre>
+  </game>
+  <game name="spyvsspy" index="" image="">
+    <description>Spy vs. Spy (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="spyvsspyc" index="" image="">
+    <description>Spy vs. Spy (Euro, USA, Bra, Sega Card)</description>
+    <cloneof>spyvsspy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="spyvsspyj1" index="" image="">
+    <description>Spy vs. Spy (Jpn, Pirate?)</description>
+    <cloneof>spyvsspy</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="spyvsspys" index="" image="">
+    <description>Spy vs. Spy (USA, Display Unit Sample)</description>
+    <cloneof>spyvsspy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="starwars" index="" image="">
+    <description>Star Wars (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="sf2" index="" image="">
+    <description>Street Fighter II (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1997</year>
+    <genre></genre>
+  </game>
+  <game name="strtmast" index="" image="">
+    <description>Street Master (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="sor" index="" image="">
+    <description>Streets of Rage (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="sor2" index="" image="">
+    <description>Streets of Rage II (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="strider" index="" image="">
+    <description>Strider (Euro, USA, Bra, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="striderd" index="" image="">
+    <description>Strider (USA, Display Unit Sample)</description>
+    <cloneof>strider</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="strider2" index="" image="">
+    <description>Strider II (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="submarin" index="" image="">
+    <description>Submarine Attack (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="suhocheo" index="" image="">
+    <description>Suho Jeonsa (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="sukeban" index="" image="">
+    <description>Sukeban Deka II - Shoujo Tekkamen Densetsu (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="sumgames" index="" image="">
+    <description>Summer Games (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="sumgamesp" index="" image="">
+    <description>Summer Games (Euro, Prototype)</description>
+    <cloneof>sumgames</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="superark" index="" image="">
+    <description>Super Arkanoid (Kor)</description>
+    <cloneof>woodypop</cloneof>
+    <crc></crc>
+    <manufacturer>HiCom</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="suprbskt" index="" image="">
+    <description>Super Basketball (USA, CES Demo)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>1989?</year>
+    <genre></genre>
+  </game>
+  <game name="sbioman1" index="" image="">
+    <description>Super Bioman 1 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>HiCom</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="sboy3" index="" image="">
+    <description>Super Boy 3 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="sboy4" index="" image="">
+    <description>Super Boy 4 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="sboy1" index="" image="">
+    <description>Super Boy I (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="sboy2" index="" image="">
+    <description>Super Boy II (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="suprbubl" index="" image="">
+    <description>Super Bubble Bobble (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="supgolf" index="" image="">
+    <description>Super Golf (Prototype)</description>
+    <cloneof>golfaman</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="skickoff" index="" image="">
+    <description>Super Kick Off (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="smgp" index="" image="">
+    <description>Super Monaco GP (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="smgpp2" index="" image="">
+    <description>Super Monaco GP (Euro, Older Prototype)</description>
+    <cloneof>smgp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="smgpp1" index="" image="">
+    <description>Super Monaco GP (Euro, Prototype)</description>
+    <cloneof>smgp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="smgpu" index="" image="">
+    <description>Super Monaco GP (USA)</description>
+    <cloneof>smgp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="superoff" index="" image="">
+    <description>Super Off Road (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="superrac" index="" image="">
+    <description>Super Racing (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="ssinv" index="" image="">
+    <description>Super Space Invaders (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="stennis" index="" image="">
+    <description>Super Tennis (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="stennisc" index="" image="">
+    <description>Super Tennis (Euro, USA, Sega Card)</description>
+    <cloneof>stennis</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="wboymlndj" index="" image="">
+    <description>Super Wonder Boy - Monster World (Jpn)</description>
+    <cloneof>wboymlnd</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="superman" index="" image="">
+    <description>Superman - The Man of Steel (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="sitio" index="" image="">
+    <description>Sítio do Picapau Amarelo (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1997</year>
+    <genre></genre>
+  </game>
+  <game name="t2ag" index="" image="">
+    <description>T2 - The Arcade Game (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Arena</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="chasehq" index="" image="">
+    <description>Taito Chase H.Q. (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="tazmars" index="" image="">
+    <description>Taz in Escape from Mars (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="tazmania" index="" image="">
+    <description>Taz-Mania (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="tazmaniap" index="" image="">
+    <description>Taz-Mania (Euro, Prototype)</description>
+    <cloneof>tazmania</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="tecmow92" index="" image="">
+    <description>Tecmo World Cup '92 (Euro, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="tecmow93" index="" image="">
+    <description>Tecmo World Cup '93 (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="teddyboy" index="" image="">
+    <description>Teddy Boy (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="teddyboyc" index="" image="">
+    <description>Teddy Boy (Euro, USA, Bra, Sega Card)</description>
+    <cloneof>teddyboy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="teddyboyjp" index="" image="">
+    <description>Teddy Boy Blues (Jpn, Ep-MyCard, Prototype)</description>
+    <cloneof>teddyboy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="teddyboyj" index="" image="">
+    <description>Teddy Boy Blues (Jpn, MyCard)</description>
+    <cloneof>teddyboy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="teddyboyj1" index="" image="">
+    <description>Teddy Boy Blues (Jpn, Pirate?)</description>
+    <cloneof>teddyboy</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;pirate&gt;</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="tennis" index="" image="">
+    <description>Tennis Ace (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="bakabon" index="" image="">
+    <description>Tensai Bakabon (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="term2" index="" image="">
+    <description>Terminator 2 - Judgment Day (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="sn_ateam" index="" image="">
+    <description>The A-Team (Music prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Probe</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="addfam" index="" image="">
+    <description>The Addams Family (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="circuit" index="" image="">
+    <description>The Circuit (Jpn)</description>
+    <cloneof>worldgp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="cybers" index="" image="">
+    <description>The Cyber Shinobi (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="cybersp" index="" image="">
+    <description>The Cyber Shinobi (Prototype)</description>
+    <cloneof>cybers</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="dinodool" index="" image="">
+    <description>The Dinosaur Dooley (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="excdizzy" index="" image="">
+    <description>The Excellent Dizzy Collection (Euro, USA, Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Codemasters</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="flash" index="" image="">
+    <description>The Flash (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="flint" index="" image="">
+    <description>The Flintstones (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Grandslam</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="crashdum" index="" image="">
+    <description>The Incredible Crash Dummies (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="hulk" index="" image="">
+    <description>The Incredible Hulk (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="jungle" index="" image="">
+    <description>The Jungle Book (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="luckydim" index="" image="">
+    <description>The Lucky Dime Caper Starring Donald Duck (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="luckydimp" index="" image="">
+    <description>The Lucky Dime Caper Starring Donald Duck (Euro, Prototype)</description>
+    <cloneof>luckydim</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="xevious" index="" image="">
+    <description>The Micro Xevious (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="tnzs" index="" image="">
+    <description>The New Zealand Story (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>TecMagik</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="ninja" index="" image="">
+    <description>The Ninja (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="ninjaj" index="" image="">
+    <description>The Ninja (Jpn)</description>
+    <cloneof>ninja</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="ottifant" index="" image="">
+    <description>The Ottifants (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="proyakyu" index="" image="">
+    <description>The Pro Yakyuu Pennant Race (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="bartvssm" index="" image="">
+    <description>The Simpsons - Bart vs. The Space Mutants (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="bartvsw" index="" image="">
+    <description>The Simpsons - Bart vs. The World (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="smurfs" index="" image="">
+    <description>The Smurfs (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1994</year>
+    <genre></genre>
+  </game>
+  <game name="smurfs2" index="" image="">
+    <description>The Smurfs 2 (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="smurfs2p" index="" image="">
+    <description>The Smurfs 2 (Euro, Prototype)</description>
+    <cloneof>smurfs2</cloneof>
+    <crc></crc>
+    <manufacturer>Infogrames</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="termntrb" index="" image="">
+    <description>The Terminator (Bra)</description>
+    <cloneof>termntr</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="termntr" index="" image="">
+    <description>The Terminator (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="3dragon" index="" image="">
+    <description>The Three Dragon Story (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina?</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="tblade" index="" image="">
+    <description>Thunder Blade (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="tbladej" index="" image="">
+    <description>Thunder Blade (Jpn)</description>
+    <cloneof>tblade</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="timesold" index="" image="">
+    <description>Time Soldiers (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="tomjerry" index="" image="">
+    <description>Tom &amp; Jerry (Prototype)</description>
+    <cloneof>tomjermv</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="tomjermv" index="" image="">
+    <description>Tom and Jerry - The Movie (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="totowld3" index="" image="">
+    <description>Toto World 3 (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Open Corp.</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="transbot" index="" image="">
+    <description>TransBot (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="transbotc" index="" image="">
+    <description>TransBot (Euro, USA, Bra, Sega Card)</description>
+    <cloneof>transbot</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="transbotp" index="" image="">
+    <description>TransBot (USA, Prototype)</description>
+    <cloneof>transbot</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1985</year>
+    <genre></genre>
+  </game>
+  <game name="treinam" index="" image="">
+    <description>Treinamento Do Mymo (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="trivial" index="" image="">
+    <description>Trivial Pursuit - Genus Edition (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Domark</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="ttoriui" index="" image="">
+    <description>Ttoriui Moheom (Kor)</description>
+    <cloneof>myhero</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="turmamon" index="" image="">
+    <description>Turma da Mônica em O Resgate (Bra)</description>
+    <cloneof>wboy3</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="ultima4" index="" image="">
+    <description>Ultima IV - Quest of the Avatar (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="ultima4p" index="" image="">
+    <description>Ultima IV - Quest of the Avatar (Euro, Prototype)</description>
+    <cloneof>ultima4</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="ultsoccr" index="" image="">
+    <description>Ultimate Soccer (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="vampire" index="" image="">
+    <description>Vampire (Euro, Prototype)</description>
+    <cloneof>mastdark</cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unknown&gt;</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="vigilant" index="" image="">
+    <description>Vigilante (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="vfa" index="" image="">
+    <description>Virtua Fighter Animation (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1997</year>
+    <genre></genre>
+  </game>
+  <game name="wwfsteel" index="" image="">
+    <description>WWF Wrestlemania - Steel Cage Challenge (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Flying Edge</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="wpayton" index="" image="">
+    <description>Walter Payton Football (USA)</description>
+    <cloneof>ameripf</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="wanted" index="" image="">
+    <description>Wanted (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="carmnwldb" index="" image="">
+    <description>Where in the World is Carmen Sandiego? (Bra)</description>
+    <cloneof>carmnwld</cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="carmnwld" index="" image="">
+    <description>Where in the World is Carmen Sandiego? (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="wimbled" index="" image="">
+    <description>Wimbledon (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="wimbled2" index="" image="">
+    <description>Wimbledon II (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="wintolb" index="" image="">
+    <description>Winter Olympics - Lillehammer '94 (Bra)</description>
+    <cloneof>wintol</cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="wintol" index="" image="">
+    <description>Winter Olympics - Lillehammer '94 (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="wolfchld" index="" image="">
+    <description>Wolfchild (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="wboya" index="" image="">
+    <description>Wonder Boy (Euro, Kor, v0) ~ Super Wonder Boy (Jpn, v0)</description>
+    <cloneof>wboy</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="wboy" index="" image="">
+    <description>Wonder Boy (Euro, USA, Bra, v1)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="wboy3" index="" image="">
+    <description>Wonder Boy III - The Dragon's Trap (Euro, USA, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="wboymlnd" index="" image="">
+    <description>Wonder Boy in Monster Land (Euro, USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="wboymlnda" index="" image="">
+    <description>Wonder Boy in Monster Land (Euro, USA, Hacked?)</description>
+    <cloneof>wboymlnd</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="wboymlndp" index="" image="">
+    <description>Wonder Boy in Monster Land (Prototype)</description>
+    <cloneof>wboymlnd</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="wboymwld" index="" image="">
+    <description>Wonder Boy in Monster World (Euro, Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="wboymwldp" index="" image="">
+    <description>Wonder Boy in Monster World (Euro, Prototype)</description>
+    <cloneof>wboymwld</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+  <game name="wonsiin" index="" image="">
+    <description>Wonsiin (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Zemina</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="woodypop" index="" image="">
+    <description>Woody Pop - Shinjinrui no Block Kuzushi (Jpn, MyCard)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="wclead" index="" image="">
+    <description>World Class Leader Board (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>U.S. Gold</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="wcup90" index="" image="">
+    <description>World Cup Italia '90 (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="wcup90d" index="" image="">
+    <description>World Cup Italia '90 (USA, Demo)</description>
+    <cloneof>wcup90</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1990</year>
+    <genre></genre>
+  </game>
+  <game name="wcup94" index="" image="">
+    <description>World Cup USA 94 (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1992</year>
+    <genre></genre>
+  </game>
+  <game name="wldgames" index="" image="">
+    <description>World Games (Euro, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="wldgamesp" index="" image="">
+    <description>World Games (Euro, Prototype)</description>
+    <cloneof>wldgames</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1989</year>
+    <genre></genre>
+  </game>
+  <game name="worldgp" index="" image="">
+    <description>World Grand Prix (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="worldgpu" index="" image="">
+    <description>World Grand Prix (USA, Bra, Kor)</description>
+    <cloneof>worldgp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="worldgpp" index="" image="">
+    <description>World Grand Prix (USA, Prototype)</description>
+    <cloneof>worldgp</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="worldsoc" index="" image="">
+    <description>World Soccer (Euro, Jpn, Kor) ~ Great Soccer (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="xmenmojo" index="" image="">
+    <description>X-Men - Mojo World (Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Tec Toy</manufacturer>
+    <year>1996</year>
+    <genre></genre>
+  </game>
+  <game name="xenon2" index="" image="">
+    <description>Xenon 2 - Megablast (Image Works) (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Image Works</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="xenon2v" index="" image="">
+    <description>Xenon 2 - Megablast (Virgin) (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Virgin Interactive</manufacturer>
+    <year>1991</year>
+    <genre></genre>
+  </game>
+  <game name="xyzolog" index="" image="">
+    <description>Xyzolog (Kor)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Taito?</manufacturer>
+    <year>19??</year>
+    <genre></genre>
+  </game>
+  <game name="ysj" index="" image="">
+    <description>Ys (Jpn)</description>
+    <cloneof>ys</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="ysd" index="" image="">
+    <description>Ys (USA, Demo)</description>
+    <cloneof>ys</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="ys" index="" image="">
+    <description>Ys - The Vanished Omens (Euro, USA, Bra)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1988</year>
+    <genre></genre>
+  </game>
+  <game name="zaxxon3d" index="" image="">
+    <description>Zaxxon 3-D (World)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="zaxxon3dp" index="" image="">
+    <description>Zaxxon 3-D (World, Prototype)</description>
+    <cloneof>zaxxon3d</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="zillionb" index="" image="">
+    <description>Zillion (Euro, v0) ~ Akai Koudan Zillion (Jpn, v0)</description>
+    <cloneof>zillion</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="zillion" index="" image="">
+    <description>Zillion (Euro, v2)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="zilliona" index="" image="">
+    <description>Zillion (USA, v1)</description>
+    <cloneof>zillion</cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="zillion2" index="" image="">
+    <description>Zillion II - The Tri Formation (Euro, USA) ~ Tri Formation (Jpn)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1987</year>
+    <genre></genre>
+  </game>
+  <game name="zool" index="" image="">
+    <description>Zool - Ninja of the 'Nth' Dimension (Euro)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Gremlin Interactive</manufacturer>
+    <year>1993</year>
+    <genre></genre>
+  </game>
+</menu>

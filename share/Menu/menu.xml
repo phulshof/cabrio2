@@ -1,0 +1,56 @@
+<menu>
+  <menu-item name="MAME">
+    <emulator name="mame">
+      <rom-path>/home/phulshof/Multimedia/Games/mame/roms</rom-path>
+    </emulator>
+  </menu-item>
+  <menu-item name="Atari 2600">
+    <emulator name="mess">
+      <rom-path>/home/phulshof/Multimedia/Games/mess/roms/a2600</rom-path>
+      <param>a2600p</param>
+      <param>-cart</param>
+    </emulator>
+  </menu-item>
+  <menu-item name="Atari 5200">
+    <emulator name="mess">
+      <rom-path>/home/phulshof/Multimedia/Games/mess/roms/a5200</rom-path>
+      <param>a5200</param>
+      <param>-cart</param>
+    </emulator>
+  </menu-item>
+  <menu-item name="Atari 7800">
+    <emulator name="mess">
+      <rom-path>/home/phulshof/Multimedia/Games/mess/roms/a7800</rom-path>
+      <param>a7800p</param>
+      <param>-cart</param>
+    </emulator>
+  </menu-item>
+  <menu-item name="Nintendo Entertainment System">
+    <emulator name="mess">
+      <rom-path>/home/phulshof/Multimedia/Games/mess/roms/nes</rom-path>
+      <param>nespal</param>
+      <param>-cart</param>
+    </emulator>
+  </menu-item>
+  <menu-item name="Super Nintendo Entertainment System">
+    <emulator name="mess">
+      <rom-path>/home/phulshof/Multimedia/Games/mess/roms/snes</rom-path>
+      <param>snespal</param>
+      <param>-cart</param>
+    </emulator>
+  </menu-item>
+  <menu-item name="Sega Master System">
+    <emulator name="mess">
+      <rom-path>/home/phulshof/Multimedia/Games/mess/roms/sms</rom-path>
+      <param>sms1pal</param>
+      <param>-cart</param>
+    </emulator>
+  </menu-item>
+  <menu-item name="Sega Mega Drive">
+    <emulator name="mess">
+      <rom-path>/home/phulshof/Multimedia/Games/mess/roms/megadriv</rom-path>
+      <param>megadriv</param>
+      <param>-cart</param>
+    </emulator>
+  </menu-item>
+</menu>

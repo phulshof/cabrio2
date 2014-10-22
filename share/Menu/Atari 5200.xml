@@ -1,0 +1,851 @@
+<?xml version="1.0"?>
+<menu>
+  <game name="5200menu" index="" image="">
+    <description>5200 Menu (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="aep" index="" image="">
+    <description>A.E. (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Brøderbund Software Inc</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="asteroid" index="" image="">
+    <description>Asteroids (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="achase" index="" image="">
+    <description>Astro Chase</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="pamdg23" index="" image="">
+    <description>Atari PAM Diagnostics (Rev 2.3)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="finaltst" index="" image="">
+    <description>Atari PAM Final System Test (Rev 1.0)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="ballblaz" index="" image="">
+    <description>Ballblazer</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Lucasfilm</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="barbball" index="" image="">
+    <description>Barroom Baseball (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="bzone" index="" image="">
+    <description>Battlezone (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="beamridr" index="" image="">
+    <description>Beamrider</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="berzerk" index="" image="">
+    <description>Berzerk</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="blckbelt" index="" image="">
+    <description>Black Belt (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="blaster" index="" image="">
+    <description>Blaster (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="blueprnt" index="" image="">
+    <description>Blue-Print</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>CBS Electronics / Bally Midway MFG. Co.</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="boogie" index="" image="">
+    <description>Boogie (Demo)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="bbsb" index="" image="">
+    <description>Bounty Bob Strikes Back!</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Big Five Software</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="buckrog" index="" image="">
+    <description>Buck Rogers - Planet of Zoom</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="cblast" index="" image="">
+    <description>Castle Blast</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unlicensed&gt;</manufacturer>
+    <year>2002</year>
+    <genre></genre>
+  </game>
+  <game name="ccrisis" index="" image="">
+    <description>Castle Crisis</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unlicensed&gt;</manufacturer>
+    <year>2004</year>
+    <genre></genre>
+  </game>
+  <game name="centiped" index="" image="">
+    <description>Centipede</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="choplift" index="" image="">
+    <description>Choplifter!</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="congo" index="" image="">
+    <description>Congo Bongo</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="cntrmsre" index="" image="">
+    <description>Countermeasure</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="pitfall2" index="" image="">
+    <description>David Crane's Pitfall II - Lost Caverns</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="defender" index="" image="">
+    <description>Defender</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="digdug" index="" image="">
+    <description>Dig Dug</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="flegacy" index="" image="">
+    <description>Final Legacy (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="friskyt" index="" image="">
+    <description>Frisky Tom (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="frogger" index="" image="">
+    <description>Frogger</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="frogger2" index="" image="">
+    <description>Frogger II: Threeedeep!</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="galaxian" index="" image="">
+    <description>Galaxian</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="gorf" index="" image="">
+    <description>Gorf</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>CBS Electronics / Bally Midway MFG. Co.</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="gremlins" index="" image="">
+    <description>Gremlins</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="gyruss" index="" image="">
+    <description>Gyruss</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="hero" index="" image="">
+    <description>H.E.R.O.</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="jbond" index="" image="">
+    <description>James Bond</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="joust" index="" image="">
+    <description>Joust</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="jrpacman" index="" image="">
+    <description>Jr Pacman (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="jungleh" index="" image="">
+    <description>Jungle Hunt</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="kshoot" index="" image="">
+    <description>K-Razy Shoot Out</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>CBS Electronics / Kay Enterprizes Co.</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="kaboom" index="" image="">
+    <description>Kaboom!</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="kangaroo" index="" image="">
+    <description>Kangaroo</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="keykaper" index="" image="">
+    <description>Keystone Kapers</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="koffiyk" index="" image="">
+    <description>Koffi: Yellow Kopter</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>&lt;unlicensed&gt;</manufacturer>
+    <year>2002</year>
+    <genre></genre>
+  </game>
+  <game name="looneyh" index="" image="">
+    <description>Looney Tunes Hotel (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="mario" index="" image="">
+    <description>Mario Bros.</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="meebzork" index="" image="">
+    <description>Meebzork (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="megmania" index="" image="">
+    <description>MegaMania</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="meteorit" index="" image="">
+    <description>Meteorites</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Electra Concepts</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="microgam" index="" image="">
+    <description>Microgammon SB (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="milliped" index="" image="">
+    <description>Millipede (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="mine2049" index="" image="">
+    <description>Miner 2049er</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Big Five Software</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="minigolf" index="" image="">
+    <description>Miniature Golf (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="missile" index="" image="">
+    <description>Missile Command</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="montezum" index="" image="">
+    <description>Montezuma's Revenge</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="mpatrol" index="" image="">
+    <description>Moon Patrol</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="mking" index="" image="">
+    <description>Mountain King</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>CBS Electronics</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="docastle" index="" image="">
+    <description>Mr. Do!'s Castle</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="mspacman" index="" image="">
+    <description>Ms. Pac-Man</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="pamdiag2" index="" image="">
+    <description>PAM Diag 2.0</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="petetest" index="" image="">
+    <description>PAM: Pete's Test (USA)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="pacman" index="" image="">
+    <description>Pac-Man</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="pengo" index="" image="">
+    <description>Pengo</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="pitfall" index="" image="">
+    <description>Pitfall!</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="polepos" index="" image="">
+    <description>Pole Position</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="popeye" index="" image="">
+    <description>Popeye</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="qbert" index="" image="">
+    <description>Q*bert</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="qix" index="" image="">
+    <description>Qix</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="quintana" index="" image="">
+    <description>Quest for Quintana Roo</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sunrise</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="rsbaseb" index="" image="">
+    <description>RealSports Baseball</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="rsbasket" index="" image="">
+    <description>RealSports Basketball (19831216)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="rsbasket2" index="" image="">
+    <description>RealSports Basketball (Prototype, 19821105)</description>
+    <cloneof>rsbasket</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="rsbasket1" index="" image="">
+    <description>RealSports Basketball (Prototype, 19831031)</description>
+    <cloneof>rsbasket</cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="rsfootb" index="" image="">
+    <description>RealSports Football</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="rssoccer" index="" image="">
+    <description>RealSports Soccer</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="rstennis" index="" image="">
+    <description>RealSports Tennis</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="fractal" index="" image="">
+    <description>Rescue on Fractalus!</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari / Lucasfilm</manufacturer>
+    <year>1986</year>
+    <genre></genre>
+  </game>
+  <game name="riveraid" index="" image="">
+    <description>River Raid</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="roadrun" index="" image="">
+    <description>Road Runner (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="robotron" index="" image="">
+    <description>Robotron: 2084</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="spcedngn" index="" image="">
+    <description>Space Dungeon</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="spaceinv" index="" image="">
+    <description>Space Invaders</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="shuttle" index="" image="">
+    <description>Space Shuttle - A Journey Into Space</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="spitfire" index="" image="">
+    <description>Spitfire (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="sprtgoof" index="" image="">
+    <description>Sport Goofy (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="starraid" index="" image="">
+    <description>Star Raiders</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="startrek" index="" image="">
+    <description>Star Trek</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="jedidsb" index="" image="">
+    <description>Star Wars - Return of the Jedi - Death Star Battle</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="starwars" index="" image="">
+    <description>Star Wars - The Arcade Game</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="stargate" index="" image="">
+    <description>Stargate (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="sbrkout" index="" image="">
+    <description>Super Breakout</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1982</year>
+    <genre></genre>
+  </game>
+  <game name="scobra" index="" image="">
+    <description>Super Cobra</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Parker Brothers</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="spacman" index="" image="">
+    <description>Super Pac-Man (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="tempest" index="" image="">
+    <description>Tempest (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="decathln" index="" image="">
+    <description>The Activision Decathlon</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="dfactor" index="" image="">
+    <description>The Dreadnaught Factor</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="laststar" index="" image="">
+    <description>The Last Starfighter (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="trackfld" index="" image="">
+    <description>Track and Field (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="vanguard" index="" image="">
+    <description>Vanguard</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="wow" index="" image="">
+    <description>Wizard of Wor</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>CBS Electronics</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="xari" index="" image="">
+    <description>Xari Arena (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="xevious" index="" image="">
+    <description>Xevious (Prototype)</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="yllowsub" index="" image="">
+    <description>Yellow Sub Demo</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Atari</manufacturer>
+    <year>1983</year>
+    <genre></genre>
+  </game>
+  <game name="zaxxon" index="" image="">
+    <description>Zaxxon</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Sega</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="zenji" index="" image="">
+    <description>Zenji</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+  <game name="zonerngr" index="" image="">
+    <description>Zone Ranger</description>
+    <cloneof></cloneof>
+    <crc></crc>
+    <manufacturer>Activision</manufacturer>
+    <year>1984</year>
+    <genre></genre>
+  </game>
+</menu>
